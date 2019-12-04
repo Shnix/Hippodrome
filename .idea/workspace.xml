@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18b127be-a074-4013-9e86-7f4871092b97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hippodrome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hippodrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Hippodrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Horse.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Алексей\IdeaProjects\Hippodrome\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UW8z5O4Zg1Yda0X3fybVO7eE56" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Hippodrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hippodrome" />
+      <module name="Hippodrome" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Hippodrome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18b127be-a074-4013-9e86-7f4871092b97" name="Default Changelist" comment="" />
+      <created>1575461249382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575461249382</updated>
+      <workItem from="1575461252677" duration="280000" />
+      <workItem from="1575464286181" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="163" key="#Project_Structure" timestamp="1575464536579">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="163" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1575464536579" />
+    <state x="465" y="99" key="CommitChangelistDialog2" timestamp="1575465435931">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="465" y="99" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1575465435931" />
+    <state x="620" y="246" key="FileChooserDialogImpl" timestamp="1575465097750">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="246" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1575465097750" />
+    <state x="674" y="420" width="356" height="169" key="Github.CreateGistDialog" timestamp="1575464727461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="674" y="420" width="356" height="169" key="Github.CreateGistDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1575464727461" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1575464400031">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1575464400031" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1575464400031">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1575464400031" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1575464400030">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1575464400030" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1575464400031">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1575464400031" />
+    <state x="320" y="79" key="SettingsEditor" timestamp="1575464525101">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="79" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1575464525101" />
+    <state x="544" y="398" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575464524417">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="544" y="398" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.1010@0.0.1680.1010" timestamp="1575464524417" />
+  </component>
+</project>
